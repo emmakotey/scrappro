@@ -1,0 +1,180 @@
+Title: BMW 323i 2005 Green
+Price: GH₵ 65,000
+
+Title: Honda Civic Coupe 2003 White
+Price: GH₵ 25,000
+
+Title: Suzuki Alto 2016 Gray
+Price: GH₵ 16,500
+
+Title: Hyundai Elantra 2013 White
+Price: GH₵ 62,000
+
+Title: MG 550 2012 Black
+Price: GH₵ 39,000
+
+Title: Volkswagen Golf 2013 Black
+Price: GH₵ 56,500
+
+Title: Nissan Versa 1.6 2011 Black
+Price: GH₵ 29,800
+
+Title: Dodge Caliber Express 2010 Black
+Price: GH₵ 49,000
+
+Title: Honda Accord Sport 2018 White
+Price: GH₵ 165,000
+
+Title: Toyota Corolla 2001 White
+Price: GH₵ 20,000
+
+Title: Volkswagen Golf GTi Automatic 2004 Blue
+Price: GH₵ 22,500
+
+Title: Honda Accord 2017 Black
+Price: GH₵ 95,000
+
+Title: Chevrolet Sonic LTZ 2015 Gray
+Price: GH₵ 38,500
+
+Title: Hyundai Accent GS 2012
+Price: GH₵ 37,000
+
+Title: SsangYong Rexton RX 290 S 2003 White
+Price: GH₵ 30,000
+
+Title: Mercedes-Benz 1420 1999 Blue
+Price: GH₵ 15,000
+
+Title: BMW 325i 2009 Black
+Price: GH₵ 48,000
+
+Title: Toyota Corolla 2013 Gray
+Price: GH₵ 58,000
+
+Title: Hyundai Elantra 2013 Red
+Price: GH₵ 50,000
+
+Title: Toyota Camry 2013 Red
+Price: GH₵ 55,000
+
+Title: Kia Picanto 2006 Blue
+Price: GH₵ 14,500
+
+Title: Hyundai Sonata 2012 White
+Price: GH₵ 51,000
+
+Title: Samsung Galaxy S10 Plus 128 GB White
+Price: GH₵ 1,650
+
+Title: Apple iPhone 14 128 GB Blue
+Price: GH₵ 2,500
+
+Title: Apple iPhone SE (2020) 64 GB Black
+Price: GH₵ 600
+
+Title: Apple iPhone X 64 GB Gray
+Price: GH₵ 1,800
+
+Title: Apple iPhone 12 Pro Max 128 GB Blue
+Price: GH₵ 5,000
+
+Title: New OnePlus 8 Pro 256 GB Black
+Price: GH₵ 3,600
+
+Title: Tecno Spark 7P 64 GB Gray
+Price: GH₵ 850
+
+Title: Google Pixel 3 XL 64 GB Black
+Price: GH₵ 1,050
+
+Title: Samsung Galaxy M11 32 GB Blue
+Price: GH₵ 700
+
+Title: Apple iPhone 6 Plus 64 GB Silver
+Price: GH₵ 750
+
+Title: Apple iPhone XR 128 GB Blue
+Price: GH₵ 2,200
+
+Title: Apple iPhone 7 Plus 128 GB Silver
+Price: GH₵ 1,300
+
+Title: Apple iPhone 6 64 GB Gold
+Price: GH₵ 300
+
+Title: Apple iPhone 11 64 GB Red
+Price: GH₵ 2,700
+
+Title: Apple iPhone X 64 GB White
+Price: GH₵ 1,900
+
+Title: Samsung Galaxy S21 FE 5G 128 GB Purple
+Price: GH₵ 2,650
+
+Title: New T-Mobile REWL 4 32GB Black
+Price: GH₵ 350
+
+Title: Samsung Galaxy S10e 128 GB Black
+Price: GH₵ 1,600
+
+Title: Apple iPhone 6s 128 GB Gray
+Price: GH₵ 699
+
+Title: Huawei Y9s 128 GB Black
+Price: GH₵ 1,000
+
+Title: Wiko Y62 16 GB Blue
+Price: GH₵ 300
+
+Title: 2bdrm Apartment in Spintex White House for rent
+Price: GH₵ 1,000 per month
+
+Title: 1bdrm Apartment in Round About, Dansoman for Rent
+Price: GH₵ 350 per month
+
+Title: 1bdrm Apartment in Kc Estate, Ofankor for rent
+Price: GH₵ 800 per month
+
+Title: 1bdrm Apartment in Chamber And Hall, Kumasi Metropolitan for rent
+Price: GH₵ 450 per month
+
+Title: 1bdrm Apartment in Singleself@Village, Achimota for rent
+Price: GH₵ 400 per month
+
+Title: 1bdrm Apartment in Ga West Municipal for Rent
+Price: GH₵ 350 per month
+
+Title: 1bdrm Apartment in Adenta for rent
+Price: GH₵ 500 per month
+
+Title: 1bdrm Apartment in Ga West Municipal for rent
+Price: GH₵ 500 per month
+
+Title: 1bdrm House in Weija Market. For Rent
+Price: GH₵ 400 per month
+
+Title: 1bdrm Bungalow in Spintex for Rent
+Price: GH₵ 400 per month
+
+Title: 1bdrm Apartment in Achimota for Rent
+Price: GH₵ 650 per month
+
+Title: 1bdrm Apartment in Rock Shell, Madina for Rent
+Price: GH₵ 450 per month
+
+Title: 1bdrm Apartment in Tema Community 25 for Rent
+Price: GH₵ 750 per month
+
+Title: 2bdrm Apartment in Oyarifa for Rent
+Price: GH₵ 1,500 per month
+
+Title: 1bdrm Room Parlour in a-Lang for Rent
+Price: GH₵ 150 per month
+
+Title: 1bdrm House in Bice One, Pokuase for Rent
+Price: GH₵ 400 per month
+
+Title: Furnished 1bdrm Shared Apartment in Comprex Newsite, Atwima Nwabiagya
+Price: GH₵ 210 per month
+
